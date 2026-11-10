@@ -1,0 +1,16 @@
+DATA KATALOG YANG DIPAKAI
+========================
+Sumber: katalog.md dalam paket-prasekolah.skill, paket-calistung.skill, paket-coding-anak.skill, dan paket-lembar-anak-muslim.skill yang diberikan pengguna.
+
+- Coding: 4 PDF; rincian aktivitas 26 + 41 + 36 + 21 = 124 halaman aktivitas. Level 2 memiliki ketidaksesuaian: judul katalog menyebut 43 halaman total, sedangkan rincian halaman 2-42 menunjukkan 41 halaman isi.
+- Prasekolah: 12 PDF; 1.315 halaman, dikelompokkan 350 + 350 + 315 + 300.
+- Calistung: 4 PDF; 170 halaman aktivitas (30 + 70 + 35 + 35), tidak termasuk empat sampul.
+- Muslim: 24 PDF; 1.013 halaman, dikelompokkan 452 + 78 + 95 + 388.
+- Total sumber: 44 PDF dan 2.600+ halaman.
+- Harga paket kategori: Rp48.000 per kategori (harga pembanding Rp76.000; hemat Rp28.000).
+- Paket Bundling: Rp98.000 (harga pembanding Rp192.000; hemat Rp94.000), mencakup empat kategori dan empat bonus.
+
+CATATAN PRA-PUBLIKASI
+- Seluruh URL Lynk.id masih memakai placeholder `lynk.id/username/...`; ganti dengan URL produk asli di products.js. Tombol detail akan menampilkan peringatan sampai URL diganti.
+- PDF asli tidak ada di ZIP data; halaman detail memakai uraian katalog dan preview gambar asli yang tersedia.
+- Pastikan hak/lisensi komersial semua PDF sudah benar sebelum penjualan. Katalog menandai beberapa materi yang kemungkinan merupakan salinan template/bermerek pihak lain.

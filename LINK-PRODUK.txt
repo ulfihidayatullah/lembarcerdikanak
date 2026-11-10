@@ -1,0 +1,12 @@
+DAFTAR TAUTAN PEMBELIAN LYNK.ID
+================================
+Ganti setiap URL placeholder berikut dengan tautan produk Lynk.id yang sebenarnya.
+Edit file products.js, cari properti "buyUrl" pada ID produk yang sesuai.
+
+coding-bundle | Paket Coding Lengkap | https://lynk.id/username/paket-coding-lengkap
+preschool-bundle | Paket Prasekolah Lengkap | https://lynk.id/username/paket-prasekolah-lengkap
+calistung-bundle | Paket Calistung Lengkap | https://lynk.id/username/paket-calistung-lengkap
+muslim-bundle | Paket Muslim Cilik Lengkap | https://lynk.id/username/paket-muslim-cilik-lengkap
+super-bundling | Paket Bundling | https://lynk.id/username/paket-super-bundling
+
+Catatan: ID internal `super-bundling` dan slug URL Lynk.id dipertahankan agar tautan yang sudah disiapkan tidak berubah; nama yang tampil di website adalah "Paket Bundling".

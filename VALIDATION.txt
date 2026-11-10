@@ -1,0 +1,43 @@
+VALIDASI WEBSITE LEMBAR CERDIK ANAK — PENYESUAIAN KATALOG + COPYWRITING
+========================================================================
+
+HASIL PEMERIKSAAN STATIS
+- Katalog utama menampilkan empat paket kategori dalam satu slider horizontal responsif dengan tombol navigasi.
+- Setiap kartu kategori memiliki ID produk, tautan detail, jumlah halaman/aktivitas, dan harga Rp48.000.
+- Data produk aktif berisi lima produk: empat paket kategori dan Paket Bundling.
+- Produk satuan Rp19.000 tidak lagi ditampilkan atau tersedia dalam data produk aktif.
+- Paket Bundling menggunakan harga pembanding Rp192.000 dan harga promo Rp98.000.
+- Penamaan paket lengkap telah diseragamkan menjadi "Paket Bundling" pada copy website.
+- Kalimat lama "Pilih, dapatkan, lalu mulai belajar bersama" dan section manfaat tiga langkah telah dihapus.
+- Judul section "PILIH SESUAI KEBUTUHAN ANAK" tampil rata tengah di atas katalog.
+- Keterangan promo harian lama telah dihapus dari halaman utama dan halaman detail.
+- Kalimat promo baru diterapkan konsisten: "Amankan Paket Bundling Rp98.000 sekarang sebelum periode promo berakhir."
+- Empat bonus tetap tampil pada bagian Paket Bundling.
+- Seluruh preview gambar yang dirujuk data produk aktif tersedia di assets.
+- Favicon SVG mengikuti simbol empat kotak pada logo utama dan ditautkan pada halaman katalog serta halaman detail.
+
+PEMERIKSAAN TEKNIS
+- products.js, script.js, detail.js, dan daily-promo.js diperiksa dengan Node syntax check.
+- index.html dan detail.html diperiksa struktur HTML-nya.
+- Seluruh ID kartu kategori memiliki tautan anchor yang sesuai dari halaman detail.
+- Katalog menggunakan slider horizontal yang dapat digeser dengan sentuhan atau tombol panah. Tombol "Lihat Detail" dibuat konsisten dan memenuhi lebar card pada layar kecil.
+
+BATAS VALIDASI
+- URL Lynk.id masih placeholder dan perlu diganti sebelum publikasi.
+- PDF asli tidak disertakan; jumlah halaman mengacu pada katalog yang diberikan.
+- Tetap lakukan pemeriksaan visual akhir pada HP, tablet, dan desktop setelah diunggah.
+
+
+VALIDASI REVISI GAMBAR
+- Card Coding dan Calistung memakai kembali aset sampul promosi dengan teks paket di dalam gambar.
+- Empat gambar galeri detail Calistung berasal dari halaman isi PDF, bukan halaman sampul.
+- File PDF sumber tidak dimasukkan ke ZIP; hanya gambar pratinjau teroptimasi yang disertakan.
+
+
+VALIDASI VISUAL 4 KATEGORI
+- coding-bundle: 4 gambar detail komposit tersedia.
+- calistung-bundle: 4 gambar detail komposit tersedia.
+- preschool-bundle: sampul baru 4 tema tersedia; 4 galeri tema tetap tersedia.
+- muslim-bundle: sampul baru 4 kelompok materi tersedia; 4 galeri tema tetap tersedia.
+- hero-preview diperbarui menggunakan empat sampul kategori final.
+- Delapan preview tunggal lama Coding/Calistung yang tidak lagi digunakan dihapus.
