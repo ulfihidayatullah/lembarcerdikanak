@@ -45,7 +45,7 @@ window.PRODUCTS = {
       "assets/previews/detail-coding-level-3.jpg",
       "assets/previews/detail-coding-level-4.jpg"
     ],
-    "buyUrl": "https://lynk.id/username/paket-coding-lengkap",
+    "buyUrl": "http://lynk.id/lembarcerdikanak/y84d90vkjey9/checkout",
     "kind": "bundle",
     "note": null
   },
@@ -95,7 +95,7 @@ window.PRODUCTS = {
       "assets/cover-preschool-3.jpg",
       "assets/cover-preschool-4.jpg"
     ],
-    "buyUrl": "https://lynk.id/username/paket-prasekolah-lengkap",
+    "buyUrl": "http://lynk.id/lembarcerdikanak/6gr4q7w0dq6r/checkout",
     "kind": "bundle",
     "note": null
   },
@@ -145,7 +145,7 @@ window.PRODUCTS = {
       "assets/previews/detail-calistung-menulis.jpg",
       "assets/previews/detail-calistung-berhitung.jpg"
     ],
-    "buyUrl": "https://lynk.id/username/paket-calistung-lengkap",
+    "buyUrl": "http://lynk.id/lembarcerdikanak/4kr90qd749v7/checkout",
     "kind": "bundle",
     "note": null
   },
@@ -195,7 +195,7 @@ window.PRODUCTS = {
       "assets/cover-muslim-3.jpg",
       "assets/cover-muslim-4.jpg"
     ],
-    "buyUrl": "https://lynk.id/username/paket-muslim-cilik-lengkap",
+    "buyUrl": "http://lynk.id/lembarcerdikanak/kqxw5zvn94vr/checkout",
     "kind": "bundle",
     "note": null
   },
@@ -265,7 +265,7 @@ window.PRODUCTS = {
       "assets/cover-calistung-bundle.webp",
       "assets/cover-muslim-bundle.webp"
     ],
-    "buyUrl": "https://lynk.id/username/paket-super-bundling",
+    "buyUrl": "http://lynk.id/lembarcerdikanak/56r2j3l71749/checkout",
     "kind": "super",
     "note": null
   }
